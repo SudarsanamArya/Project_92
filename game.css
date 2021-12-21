@@ -1,0 +1,86 @@
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+body
+{
+	background-image: url("https://previews.123rf.com/images/perfectpixelshunter/perfectpixelshunter2001/perfectpixelshunter200100175/138990474-abstract-math-formulas-on-a-dark-background-education-concept-3d-rendering.jpg");
+}
+
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+  color: red;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+h2{
+  color: orange;
+  font-family: 'Akaya Kanadaka', cursive;
+}
+
+label
+{
+font-family: 'Akaya Kanadaka', cursive;
+color:red;
+}
+
+
+input:hover{
+	border: 5px solid rgb(110, 8, 80);
+	width: 35%;
+}
+
+button{
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+h5{
+    font-family: 'Akaya Kanadaka', cursive;
+    color: red;
+    font-weight: bold;
+}
+
+#player1_score, #player2_score
+{
+	display: inline-block;
+	margin-left: 20px;
+  color: red;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3
+{
+  display: inline-block;
+	margin-left: 20px;
+  color: red;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
